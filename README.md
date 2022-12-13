@@ -14,9 +14,6 @@ Abra-o no seu Xcode
 
 Execute o projeto no seguinte icone <img width="43" alt="Captura de Tela 2022-12-13 às 12 27 16" src="https://user-images.githubusercontent.com/26841238/207374439-d9f896f0-050b-4800-a44c-7db7dddf597e.png"> .
 
-## Visão geral da arquitetura
-Aplicativo foi construido utilizando arquitetura MVVM-C e, foi desenvolvidos testes unitários e testes de UI
-
 ## Fluxo de trabalho de Controle de Versão
 Usamos vagamente a abordagem "Git flow": master é a versão
 branch - deve ser sempre liberável e apenas mesclado em
@@ -33,15 +30,8 @@ até ramificações confusas antes de se fundir novamente no desenvolvimento.
 ## Ambiente de teste
 ```
 Xcode | 2022
-dispositivo de teste: IPHONE 13 min
+dispositivo de teste: Apple Watch 6 (44 mm)
 ```
-
-## Dependência
-[iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case)
-
-## Agradecimentos
-
-* [Eric Alves Brito](https://www.linkedin.com/in/ericbrito)
 
 ## Telinha Inicial com o tempo, escolha de ponto  
 <img width="324" alt="Captura de Tela 2022-12-13 às 15 04 23" src="https://user-images.githubusercontent.com/26841238/207410667-a59fb5eb-3623-48a9-a84a-709bfa9b1146.png">
