@@ -1,4 +1,4 @@
-# Aplicativo no Apple Watch
+# Qual o ponto da Carne ?
 
 ## Introdução
 Este aplicativo foi construído para fins didáticos, apenas para conhecimento e incremento de conhecimentos no mundo de Mobile. Aplicativo consiste em você definir o tempo exato no preparo da sua carne, escolhendo o ponto com um temporizador para te ajudar.
